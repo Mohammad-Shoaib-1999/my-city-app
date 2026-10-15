@@ -1,0 +1,6 @@
+{
+  "name": "Explore Nanded",
+  "description": "City discovery and tourism guide for Nanded, Maharashtra featuring Hazur Sahib, ancient forts, sacred Godavari ghats, dining, and weekend getaways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Sacred Dome & Heritage Spire Silhouette -->
+    <!-- Dome Finial / Kalash -->
+    <path
+        android:fillColor="#FFD180"
+        android:pathData="M54,26 L55.5,30 L52.5,30 Z M54,23 A2,2 0 1,1 54,27 A2,2 0 1,1 54,23 Z" />
+    
+    <!-- Sacred Dome (Hazur Sahib / Heritage silhouette) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C63,30 68,36 68,43 L40,43 C40,36 45,30 54,30 Z" />
+        
+    <!-- Main Sanctum Archway & Pillars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,45 L71,45 L71,68 L64,68 L64,56 C64,50.5 60,48 54,48 C48,48 44,50.5 44,56 L44,68 L37,68 Z" />
+        
+    <!-- Central Inner Glow Arch -->
+    <path
+        android:fillColor="#FFD180"
+        android:pathData="M48,56 C48,52.5 50.5,51 54,51 C57.5,51 60,52.5 60,56 L60,68 L48,68 Z" />
+        
+    <!-- Fortress Bastions / Heritage Gateway Turrets Left and Right -->
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M30,48 L35,48 L35,68 L30,68 Z M73,48 L78,48 L78,68 L73,68 Z" />
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M29,45 L36,45 L36,48 L29,48 Z M72,45 L79,45 L79,48 L72,48 Z" />
+        
+    <!-- Base Platform -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,70 L84,70 L84,73 L24,73 Z" />
+        
+    <!-- Godavari River Waves (Ripples of blessing & discovery) -->
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M22,77 C28,75 34,79 40,77 C46,75 52,79 58,77 C64,75 70,79 76,77 C82,75 85,77 86,77 L86,80 C85,80 82,78 76,80 C70,82 64,78 58,80 C52,82 46,78 40,80 C34,82 28,78 22,80 Z" />
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M24,83 C30,81.5 36,84.5 42,83 C48,81.5 54,84.5 60,83 C66,81.5 72,84.5 78,83 C82,82 84,83 84,83 L84,85 C84,85 82,84 78,85 C72,86.5 66,83.5 60,85 C54,86.5 48,83.5 42,85 C36,86.5 30,83.5 24,85 Z" />
+
+    <!-- Explorer Compass Star (Top Right Accent) -->
+    <path
+        android:fillColor="#FFD180"
+        android:pathData="M78,25 L80,30 L85,32 L80,34 L78,39 L76,34 L71,32 L76,30 Z" />
+</vector>
